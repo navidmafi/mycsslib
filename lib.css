@@ -1,0 +1,232 @@
+/* Copyright (c) 2021 Navid Mafi <navidmafi2006@gmail.com>
+ Licensed under the GPLv3 Licence.
+See the LICENCE file in the repository root for full licence text.
+*/
+
+.text-center {
+    text-align: center;
+  }
+  .text-right {
+    text-align: right;
+  }
+  .text-left {
+    text-align: left;
+  }
+  .flex-vertical {
+    display: flex;
+    flex-direction: column;
+  }
+  .nospacing {
+    margin: 0;
+    padding: 0;
+  }
+  .flex-both-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .flex-items-center {
+    display: flex;
+    align-items: center;
+  }
+  .flex-justify-center{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .font-300 {
+    font-weight: 300;
+  }
+  .font-400 {
+    font-weight: 400;
+  }
+  .font-700 {
+    font-weight: 700;
+  }
+  .br-5 {
+    border-radius: 5px;
+  }
+  .br-10 {
+    border-radius: 10px;
+  }
+  
+  .noborder {
+    border: none;
+  }
+  .py-05r {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  .py-1r {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  .py-2r {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  .py-3r {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  .py-5r {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  .px-05r {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+  }
+  .px-1r {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  .px-2r {
+    padding-right: 2rem;
+    padding-left: 2rem;
+  }
+  .px-3r {
+    padding-right: 3rem;
+    padding-left: 3rem;
+  }
+  
+  .px-5r {
+    padding-right: 5rem;
+    padding-left: 5rem;
+  }
+  
+  .my-05r {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .my-1r {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .my-2r {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  .my-3r {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+  .my-5r {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+  .mx-05r {
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+  }
+  .mx-1r {
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+  .mx-2r {
+    margin-right: 2rem;
+    margin-left: 2rem;
+  }
+  .mx-3r {
+    margin-right: 3rem;
+    margin-left: 3rem;
+  }
+  
+  .mx-5r {
+    margin-right: 5rem;
+    margin-left: 5rem;
+  }
+  
+  
+  .fs-10r {
+    font-size: 1rem;
+  }
+  .fs-11r {
+    font-size: 1.1rem;
+  }
+  .fs-12r {
+    font-size: 1.2rem;
+  }
+  .fs-13r {
+    font-size: 1.3rem;
+  }
+  .fs-14r {
+    font-size: 1.4rem;
+  }
+  .fs-15r {
+    font-size: 1.5rem;
+  }
+  .fs-17r {
+    font-size: 1.7rem;
+  }
+  .fs-20r {
+    font-size: 2rem;
+  }
+  
+  .fs-25r {
+    font-size: 2.5rem;
+  }
+  .fs-30r {
+    font-size: 2.5rem;
+  }
+  .fs-35r {
+    font-size: 2.5rem;
+  }
+  .trans-200 {
+    transition: 200ms;
+  }
+  
+  .wd-20pr {
+    width: 20%;
+  }
+  .wd-40pr {
+    width: 40%;
+  }
+  .wd-60pr {
+    width: 60%;
+  }
+  .wd-80pr {
+    width: 80%;
+  }
+  .wd-90pr {
+    width: 90%;
+  }
+  .wd-100pr {
+    width: 100%;
+  }
+  .hg-20pr {
+    height: 20%;
+  }
+  .hg-40pr {
+    height: 40%;
+  }
+  .hg-60pr {
+    height: 60%;
+  }
+  .hg-80pr {
+    height: 80%;
+  }
+  .hg-100pr {
+    height: 100%;
+  }
+  .sp-1r {
+    height: 1rem;
+  }
+  .sp-2r {
+    height: 2rem;
+  }
+  .sp-3r {
+    height: 3rem;
+  }
+  .sp-5r {
+    height: 5rem;
+  }
+  
+  .hidden {
+    display: none;
+    opacity: 0;
+  }
+
+  .fst-it {
+    font-style: italic;
+  }
