@@ -234,6 +234,33 @@ See the LICENCE file in the repository root for full licence text.
 .hg-5r {
   height: 5rem;
 }
+.hg-10v {
+  height: 10vh;
+}
+.hg-20v {
+  height: 20vh;
+}
+.hg-30v {
+  height: 30vh;
+}
+.hg-40v {
+  height: 40vh;
+}
+.hg-50v {
+  height: 50vh;
+}
+.hg-60v {
+  height: 60vh;
+}
+.hg-70v {
+  height: 80vh;
+}
+.hg-20v {
+  height: 90vh;
+}
+.hg-20v {
+  height: 100vh;
+}
 
 .hidden {
   display: none;
