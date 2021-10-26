@@ -253,12 +253,15 @@ See the LICENCE file in the repository root for full licence text.
   height: 60vh;
 }
 .hg-70v {
+  height: 70vh;
+}
+.hg-80v {
   height: 80vh;
 }
-.hg-20v {
+.hg-90v {
   height: 90vh;
 }
-.hg-20v {
+.hg-100v {
   height: 100vh;
 }
 
