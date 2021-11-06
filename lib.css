@@ -72,6 +72,9 @@ See the LICENCE file in the repository root for full licence text.
 .noborder {
   border: none;
 }
+.nooutline {
+  outline: none;
+}
 .py-05r {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
@@ -185,10 +188,19 @@ See the LICENCE file in the repository root for full licence text.
   font-size: 2.5rem;
 }
 .fs-30r {
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 .fs-35r {
-  font-size: 2.5rem;
+  font-size: 3.5rem;
+}
+.fs-40r {
+  font-size: 4rem;
+}
+.fs-45r {
+  font-size: 4.5rem;
+}
+.fs-50r {
+  font-size: 5rem;
 }
 .trans-100 {
   transition: 100ms;
@@ -311,4 +323,73 @@ See the LICENCE file in the repository root for full licence text.
 
 .vertical-middle {
   vertical-align: middle;
+}
+
+.of-yc {
+  overflow-y: scroll;
+}
+
+.of-yh {
+  overflow-y: hidden;
+}
+
+.of-xs {
+  overflow-x: scroll;
+}
+
+.of-xh {
+  overflow-x: hidden;
+}
+
+.of-xa {
+  overflow-x: auto;
+}
+
+.of-ya {
+  overflow-y: auto;
+}
+
+/*Based on discord branding colors*/
+.tc-red {
+  color: #ED4245;
+}
+.tc-yellow {
+  color: #FEE75C;
+}
+.tc-white {
+  color: #FFFFFF;
+}
+.tc-lime {
+  color : #57F287;
+}
+.tc-purple {
+  color: #5865F2;
+}
+.tc-pink {
+  color : #EB459E;
+}
+.tc-black {
+  color : #000000;
+}
+
+.bg-red {
+  background-color: #ED4245;
+}
+.bg-yellow {
+  background-color: #FEE75C;
+}
+.bg-white {
+  background-color: #FFFFFF;
+}
+.bg-lime {
+  background-color : #57F287;
+}
+.bg-purple {
+  background-color: #5865F2;
+}
+.bg-pink {
+  background-color : #EB459E;
+}
+.bg-black {
+  background-color : #000000;
 }
