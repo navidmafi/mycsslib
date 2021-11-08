@@ -15,6 +15,37 @@ See the LICENCE file in the repository root for full licence text.
 .flex {
   display: flex;
 }
+.fl-10 {
+  flex : 10%;
+}
+.fl-20 {
+  flex : 20%;
+}
+.fl-30 {
+  flex : 30%;
+}
+.fl-40 {
+  flex : 40%;
+}
+.fl-50 {
+  flex : 50%;
+}
+.fl-60 {
+  flex : 60%;
+}
+.fl-70 {
+  flex : 70%;
+}
+.fl-80 {
+  flex : 80%;
+}
+.fl-90 {
+  flex : 90%;
+}
+.fl-100 {
+  flex : 100%;
+}
+
 .flex-horizontal {
   display: flex;
   flex-direction: row;
@@ -158,8 +189,14 @@ See the LICENCE file in the repository root for full licence text.
   margin-right: 5rem;
   margin-left: 5rem;
 }
-.mx-center {
+.mx-auto {
 	margin: 0 auto;
+}
+.my-auto {
+  margin: auto 0;
+}
+.mxy-auto {
+  margin: auto auto;
 }
 .fs-10r {
   font-size: 1rem;
@@ -213,14 +250,26 @@ See the LICENCE file in the repository root for full licence text.
 .trans-300 {
   transition: 200ms;
 }
+.wd-10pr {
+  width: 10%;
+}
 .wd-20pr {
   width: 20%;
+}
+.wd-30pr {
+  width: 30%;
 }
 .wd-40pr {
   width: 40%;
 }
+.wd-50pr {
+  width: 50%;
+}
 .wd-60pr {
   width: 60%;
+}
+.wd-70pr {
+  width: 70%;
 }
 .wd-80pr {
   width: 80%;
@@ -231,14 +280,31 @@ See the LICENCE file in the repository root for full licence text.
 .wd-100pr {
   width: 100%;
 }
+
+.wd-max-100 {
+  max-width: 100%;
+}
+
+.hg-10pr {
+  height: 10%;
+}
 .hg-20pr {
   height: 20%;
+}
+.hg-30pr {
+  height: 30%;
 }
 .hg-40pr {
   height: 40%;
 }
+.hg-50pr {
+  height: 50%;
+}
 .hg-60pr {
   height: 60%;
+}
+.hg-70pr {
+  height: 70%;
 }
 .hg-80pr {
   height: 80%;
@@ -252,6 +318,7 @@ See the LICENCE file in the repository root for full licence text.
 .hg-100pr {
   height: 100%;
 }
+
 .hg-1r {
   height: 1rem;
 }
@@ -299,7 +366,9 @@ See the LICENCE file in the repository root for full licence text.
   display: none;
   opacity: 0;
 }
-
+.block {
+  display: block;
+}
 .fst-it {
   font-style: italic;
 }
@@ -319,9 +388,6 @@ See the LICENCE file in the repository root for full licence text.
   text-decoration: overline;
 }
 
-.bg-none {
-  background-color: transparent;
-}
 
 .vertical-middle {
   vertical-align: middle;
@@ -374,6 +440,9 @@ See the LICENCE file in the repository root for full licence text.
   color : #000000;
 }
 
+.bg-none {
+  background-color: transparent;
+}
 .bg-red {
   background-color: #ED4245;
 }
