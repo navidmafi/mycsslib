@@ -198,6 +198,33 @@ See the LICENCE file in the repository root for full licence text.
 .mxy-auto {
   margin: auto auto;
 }
+.fs-01r {
+  font-size: 0.1rem;
+}
+.fs-02r {
+  font-size: 0.2rem;
+}
+.fs-03r {
+  font-size: 0.3rem;
+}
+.fs-04r {
+  font-size: 0.4rem;
+}
+.fs-05r {
+  font-size: 0.5rem;
+}
+.fs-06r {
+  font-size: 0.6rem;
+}
+.fs-07r {
+  font-size: 0.7rem;
+}
+.fs-08r {
+  font-size: 0.8rem;
+}
+.fs-09r {
+  font-size: 0.9rem;
+}
 .fs-10r {
   font-size: 1rem;
 }
