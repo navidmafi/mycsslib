@@ -393,6 +393,10 @@ See the LICENCE file in the repository root for full licence text.
   display: none;
   opacity: 0;
 }
+.hidden-important {
+  display: none!important;
+  opacity: 0!important;
+}
 .block {
   display: block;
 }
